@@ -26,6 +26,7 @@ if(!file.exists("./data"))
 }
 
 library(dplyr)
+library(downloader)
 
 # set data source and fix-up address
 zipUrl = "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
