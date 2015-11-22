@@ -11,8 +11,9 @@ Assignment for coursera class: getdata-034
  reference: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ==========================================================================================
+
 Charlie Mahlman, student, enrolled into: https://class.coursera.org/getdata-034/.
-Version 1.0
+
 ==========================================================================================
 
  The project objective asks for the following tasks per assignment rubric:
