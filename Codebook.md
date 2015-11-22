@@ -8,27 +8,9 @@ Background, as read from the assignment page: Companies like Fitbit, Nike, and J
 
 Variables: the data provided by http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones was produced by 30 people ("Subjects") wearing a Samsung Smartphone.  The smartphone produced accelerometer and gyro data as the subjects performed six different types of tasks: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, and WALKING_UPSTAIRS.
 
-These are the variables found in the raw data and can be further explored via the downloaded features.txt and feature_info.txt:  
-	tBodyAcc-XYZ
-	tGravityAcc-XYZ
-	tBodyAccJerk-XYZ
-	tBodyGyro-XYZ
-	tBodyGyroJerk-XYZ
-	tBodyAccMag
-	tGravityAccMag
-	tBodyAccJerkMag
-	tBodyGyroMag
-	tBodyGyroJerkMag
-	fBodyAcc-XYZ
-	fBodyAccJerk-XYZ
-	fBodyGyro-XYZ
-	fBodyAccMag
-	fBodyAccJerkMag
-	fBodyGyroMag
-	fBodyGyroJerkMag
+These are the variables found in the raw data and can be further explored via the downloaded features.txt and feature_info.txt: tBodyAcc-XYZ, tGravityAcc-XYZ, tBodyAccJerk-XYZ, tBodyGyro-XYZ, tBodyGyroJerk-XYZ, tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag, fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccMag, fBodyAccJerkMag, fBodyGyroMag, and fBodyGyroJerkMag.
 
 The interesting set of variables that were estimated from these signals that we use in this assignment are: 
-
 	mean(): Mean value
 	std(): Standard deviation
 
