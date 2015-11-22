@@ -12,7 +12,7 @@ Assignment for coursera class: getdata-034
 
 ==========================================================================================
 Charlie Mahlman, student, enrolled into: https://class.coursera.org/getdata-034/.
-Nov 22, 2015
+Version 1.0
 ==========================================================================================
 
  The project objective asks for the following tasks per assignment rubric:
